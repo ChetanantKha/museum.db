@@ -5,6 +5,7 @@
 <nav>
 	<a href="/">Home</a>
 	<a href="/collection">My collection</a>
+	<a href="/clue">Clue</a>
 	<a href="/artifacts">Artifact</a>
 	<a href="/factions">Faction</a>
 	<a href="/quiz">Quiz</a>
